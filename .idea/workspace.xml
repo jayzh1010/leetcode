@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="710cfb62-bb3e-4894-9938-e1ad4ee546f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dtOkZHx3xtMpeQhCbJc5WWUkxl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/leetcode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="problems" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.Main" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="710cfb62-bb3e-4894-9938-e1ad4ee546f8" name="Default Changelist" comment="" />
+      <created>1593241066056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593241066056</updated>
+      <workItem from="1593241067427" duration="14842000" />
+      <workItem from="1593928249346" duration="475000" />
+      <workItem from="1594085708579" duration="2195000" />
+      <workItem from="1594128294911" duration="2702000" />
+      <workItem from="1594131204819" duration="11034000" />
+      <workItem from="1594245770852" duration="27307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1594085887206">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1594085887206" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1594246150980">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1594246150980" />
+    <state x="336" y="157" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593241139163">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="336" y="157" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.877@0.23.1440.877" timestamp="1593241139163" />
+    <state x="490" y="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594085822481">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="490" y="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1594085822481" />
+    <state x="895" y="178" key="#xdebugger.evaluate" timestamp="1595238262908">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="895" y="178" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1595238262908" />
+    <state width="1396" height="284" key="GridCell.Tab.0.bottom" timestamp="1595857316835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595857316835" />
+    <state width="1396" height="284" key="GridCell.Tab.0.center" timestamp="1595857316834">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595857316834" />
+    <state width="1396" height="284" key="GridCell.Tab.0.left" timestamp="1595857316834">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595857316834" />
+    <state width="1396" height="284" key="GridCell.Tab.0.right" timestamp="1595857316834">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595857316834" />
+    <state width="1396" height="284" key="GridCell.Tab.1.bottom" timestamp="1595857316835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595857316835" />
+    <state width="1396" height="284" key="GridCell.Tab.1.center" timestamp="1595857316835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1595857316835" />
+    <state width="1396" height="284" key="GridCell.Tab.1.left" timestamp="1595857316835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1595857316835" />
+    <state width="1396" height="284" key="GridCell.Tab.1.right" timestamp="1595857316835">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1595857316835" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1595840997494">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1595840997494" />
+    <state x="507" y="246" key="chooseDestDirectoryDialog" timestamp="1594085573285">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="246" key="chooseDestDirectoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1594085573285" />
+    <state x="88" y="84" key="new project wizard" timestamp="1593241090136">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="88" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1593241090136" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1593928153329">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1593928153329" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/FindMedianSortedArrays.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/FindMedianSortedArrays.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/LongestPalindrome.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/LongestPalindrome.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/ReverseNodeInKGroup.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/ReverseNodeInKGroup.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/Parentheses.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/LargestRectangleArea.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/LargestRectangleArea.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/Permute.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/PermuteUnique.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/Main.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/MajorityElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/MinMutation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/FindLadders.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/FindLadders.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/MySqrt.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/MySqrt.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/IsPerfectSquare.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/SearchRotateArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/SearchMatrix.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/SearchMatrix.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/UniquePathsWithObstacles.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/LongCommonSubsequence.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/ClimbStairs.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/MinimumTotal.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problems/MaxProduct.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
